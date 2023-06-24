@@ -5,10 +5,10 @@ body {
 }
 
 .ubuntu{
-  font-family: "Ubuntu"!important;
+  font-family: 'Creepster', cursive !important;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: 'Creepster', cursive,
     monospace;
 }
